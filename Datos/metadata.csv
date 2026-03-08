@@ -1,0 +1,13 @@
+archivo,concepto,origen,link
+Poblacion Argentina historica.csv,Argentina,Banco Mundial,datacatalog.worldbank.org
+Solicitud de Certificados 003 - Formulario de No Ciudadano Argentino.xlsx,Argentina,Cámara Nacional Electoral,
+Migración neta.csv,Argentina,Banco Mundial,https://datos.bancomundial.org/indicador/SM.POP.NETM?end=2023&locations=AR&start=1960&view=chart
+Imigrantes Internacionais Registrados no Brasil.csv,Brasil,Observatório das Migrações em São Paulo,https://www.nepo.unicamp.br/observatorio/bancointerativo/numeros-imigracao-internacional/sincre-sismigra/
+Censos de Población y Viviendas 2021 - Argentinos por Año de Llegada a España.xml,España,Instituto Nacional de Estadistica,https://www.ine.es/index.htm
+"Flujo de inmigración procedente del extranjero por año, sexo, grupo de edad, país de origen, nacionalidad y país de nacimiento en relación con el país de origen.csv",España,Instituto Nacional de Estadistica,https://www.ine.es/index.htm
+"Población residente por fecha, sexo, grupo de edad y país de nacimiento.csv",España,Instituto Nacional de Estadistica,https://www.ine.es/index.htm
+MPI-Data-Hub-Region-Birth_1960-2022_0.xlsx,Estados Unidos,Migration Policy Institute,https://www.migrationpolicy.org/programs/data-hub/charts/immigrants-countries-birth-over-time
+Residence permits of non-EU citizens - Citizenship and reason.csv,Italia,Immigrants.Stat,http://stra-dati.istat.it/
+Acquisitions of citizenship - Most relevant country of citizenship.csv,Italia,Immigrants.Stat,http://stra-dati.istat.it/
+aggregates_correspondence_table_2020_1.xlsx,general,United Nations,https://www.un.org/development/desa/pd/content/international-migrant-stock
+undesa_pd_2020_ims_stock_by_sex_destination_and_origin.xlsx,general,United Nations,https://www.un.org/development/desa/pd/content/international-migrant-stock
